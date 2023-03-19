@@ -4,7 +4,7 @@ In this project we are aiming to create the futuristic virtual ai keyboard app.
 
 In this project we have taken a use of cvzone to track palm movement and to type the word on the screen.
 
-If you join Index and Middle finger on any word then it will type on your screen.
+If you join Index and Middle finger on any letter then it will type on your screen.
 
 First of all we just created the keyboard on the screen and after that we just type the word on the screen through that.
 
